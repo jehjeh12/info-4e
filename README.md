@@ -63,9 +63,6 @@ console.log(data.image.url);
 - toys
 - xmas
 
-Users:
-- Khalil Chakir
-
 #
 # ⭐ License
 
