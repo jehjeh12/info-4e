@@ -24,13 +24,13 @@ console.log(data.image.url);
 
 # 🔞 Category's
 
-- ass 
 - sixtynine
 - pussy
 - dick
 - anal
 - boobs
-- ass
+- yo ass
+- ta pussy
 - bdsm
 - black
 - easter
